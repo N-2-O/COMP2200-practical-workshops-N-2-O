@@ -10,7 +10,7 @@ this repository as a record of your work.  This can then form part of your ongoi
 You can update this README file to personalise your repository (using Markdown language). 
 
 ### In command prompt/terminal:
-To download (copy) files to local device:
+To download (copy/update) all files to local device:
 
 `git pull`
 
