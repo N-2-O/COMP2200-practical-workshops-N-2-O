@@ -7,4 +7,15 @@ repository has one notebook for the first week. Each week you will add a new not
 your changes as you complete the problems set for you.  At the end of the semester you will have
 this repository as a record of your work.  This can then form part of your ongoing portfolio of work.
 
-You can update this README file to personalise your repository. 
+You can update this README file to personalise your repository (using Markdown language). 
+
+### In command prompt/terminal:
+To download (copy) files to local device:
+
+`git pull`
+
+To upload (save) files onto GitHub:
+
+`git add "file name"` <br>
+`git commit -m "message"` <br>
+`git push origin master`
