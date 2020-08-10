@@ -11,7 +11,7 @@ You can update this README file to personalise your repository (using Markdown l
 
 ---
 
-### In command prompt/terminal:
+### In command prompt/terminal (go to practical-workshops-N-2-O):
 To download (copy/update) all files to local device:
 ```
 git pull
