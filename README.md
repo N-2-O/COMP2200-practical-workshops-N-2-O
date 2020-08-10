@@ -19,3 +19,6 @@ To upload (save) files onto GitHub:
 `git add "file name"` <br>
 `git commit -m "message"` <br>
 `git push origin master`
+
+### Links
+  - [Math symbols](https://matplotlib.org/3.3.0/tutorials/text/mathtext.html)
