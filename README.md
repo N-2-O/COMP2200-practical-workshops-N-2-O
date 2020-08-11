@@ -34,6 +34,7 @@ git push origin master
 
 ### Links
   - [Math symbols](https://matplotlib.org/3.3.0/tutorials/text/mathtext.html)
+  - [Pandas reference](https://www.dataquest.io/blog/pandas-cheat-sheet/)
   - [MatPlotLib reference](https://matplotlib.org/tutorials/index.html)
   - [Markdown reference (basic)](https://commonmark.org/help/)
   - [Markdown reference (detailed)](https://www.markdownguide.org/basic-syntax/)
